@@ -4,7 +4,9 @@ tutorial repository for uploading image using multer and sharp
 ├── index.js **main application file**
 
 ├──uploads   **image upload folder**
+
 └── resized  **image resized upload folder**
+
 ├── upload-config.js **multer configuration**
 
 ├── node_modules
